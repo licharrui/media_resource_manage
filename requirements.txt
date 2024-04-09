@@ -1,0 +1,5 @@
+fastapi==0.110.1
+python-multipart==0.0.9
+SQLAlchemy==2.0.29
+toml==0.10.2
+uvicorn==0.29.0
