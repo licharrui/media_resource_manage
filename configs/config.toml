@@ -1,0 +1,13 @@
+[db]
+ip = "127.0.0.1"
+port = 3306
+user = "root"
+password = "123456"
+db_name = "test"
+
+[resource]
+dir_name = "/data/travel_of_the_life/media_resource"
+image_dir = "images"
+video_dir = "videos"
+audio_dir = "audios"
+document_dir = "documents"
